@@ -1,0 +1,43 @@
+_repo: Erotika-Biblion_43438
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hansmann, Paul
+    birthdate: 1882
+    gutenberg_agent_id: '42209'
+    url: http://www.gutenberg.org/2009/agents/42209
+covers:
+- cover_type: archival
+  image_path: 43438-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mirabeau, Honoré-Gabriel de Riqueti, comte de
+    aliases:
+    - De Mirabeau, Honoré-Gabriel de Riquetti, comte
+    - Mirabeau, Honore-Gabriel de Riqueti, comte de
+    - Riquetti, Honoré Gabriel, comte de Mirabeau
+    - Riqueti, Honoré-Gabriel, comte de Mirabeau
+    - De Riquetti, Honoré-Gabriel, comte de Mirabeau
+    birthdate: 1749
+    deathdate: 1791
+    gutenberg_agent_id: '32251'
+    url: http://www.gutenberg.org/2009/agents/32251
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Honor%C3%A9_Gabriel_Riqueti,_comte_de_Mirabeau
+    - http://fr.wikipedia.org/wiki/Honor%C3%A9_Gabriel_Riqueti_de_Mirabeau
+description: ''
+gutenberg_issued: '2013-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43438'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Paraphilias -- Early works to 1800'
+- !lcsh 'Erotic literature -- Early works to 1800'
+- !lcsh 'Sex customs -- Early works to 1800'
+title: Erotika Biblion
+url: http://www.gutenberg.org/ebooks/43438
